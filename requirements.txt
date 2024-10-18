@@ -1,0 +1,13 @@
+google-generativeai
+streamlit
+streamlit 
+librosa 
+matplotlib 
+pydub 
+numpy 
+soundfile 
+pystoi 
+pyloudnorm 
+noisereduce
+fastdtw
+dtaidistance
